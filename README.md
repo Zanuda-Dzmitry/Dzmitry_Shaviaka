@@ -16,7 +16,7 @@
 - :telescope: Регулярно изучаю новые технологии и подходы в фронтенд-разработке, особенно в экосистеме Vue/Nuxt, чтобы быть в курсе актуальных тенденций.
 - :seedling: Применяю ИИ-помощников для поиска информации и рефакторинга кода, что повышает эффективность и качество разработки.
 - :zap: Открыт к изучению и внедрению новых инструментов для повышения продуктивности разработки.
-- :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)]([your-tg-url](https://t.me/Dzmitry_Shaviaka))
+- :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)]([your-tg-url](https://t.me/Dzmitry_Shaviaka))
 
 
 ### :hammer_and_wrench: Languages and Tools :
