@@ -6,7 +6,7 @@
    <a href="www.linkedin.com/in/dzmitry-shaviaka">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="www.linkedin.com/in/dzmitry-shaviaka">
+   <a href="https://t.me/Dzmitry_Shaviaka">
       <img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
